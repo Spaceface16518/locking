@@ -92,3 +92,4 @@ tags
 cmake_build_*/
 results/
 .cache/
+*.s
